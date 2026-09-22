@@ -12,7 +12,7 @@ Open `index.html` in a browser, or run `python3 -m http.server 8000` and visit `
 
 ## Deployment
 
-The GitHub Actions workflow publishes this repository to GitHub Pages when changes are pushed to `main`. The repository's **Settings → Pages → Build and deployment → Source** must be set to **GitHub Actions** for first deployment. Expected URL: https://dimivitan01.github.io/Dimitar-Vitanov-Portfolio/
+The GitHub Actions workflow publishes this repository to GitHub Pages when changes are pushed to `main`. In **Settings → Pages → Build and deployment**, set **Source** to **GitHub Actions**. Expected URL: https://dimivitan01.github.io/Dimitar-Vitanov-Portfolio/
 
 ## Editing
 
